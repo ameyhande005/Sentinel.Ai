@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Python
+venv/
+
+# Environment
+.env
+
+# Zip files
+*.zip
+
+# Lock files
+bun.lockb
+package-lock.json
